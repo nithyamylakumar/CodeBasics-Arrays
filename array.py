@@ -78,3 +78,4 @@ for i in range(max):
         odd.append(i)
 
 print('Odd numbers:',odd)
+
